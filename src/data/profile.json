@@ -19,7 +19,7 @@
     "nationality": "Egyptian, Canadian",
     "publisherName": "Zaina",
     "sameAs": [
-      "https://www.linkedin.com/in/zaina-mohamed/",
+      "https://www.linkedin.com/in/zaina-mohamed",
       "https://github.com/zmohamed9"
     ]
   },
@@ -38,7 +38,7 @@
         "ariaLabel": "linkedin profile",
         "screenReaderLabel": "Linkedin Profile",
         "icon": "ri:linkedin-box-fill",
-        "url": "https://www.linkedin.com/in/zaina-mohamed/"
+        "url": "https://www.linkedin.com/in/zaina-mohamed"
       }
     ],
     "image": {
