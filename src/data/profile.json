@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Gianmarco Cavallo - Freelance front-end Developer",
-    "description": "I'm a developer based in Italy, passionate about user experience and specializing in engaging animations and micro-interactions. My primary tools of choice include: JavaScript, React, Solid.js, Astro, Svelte, and Node.js.",
+    "title": "Zaina Mohamed - Junior UI/UX Web Designer",
+    "description": "I'm a designer based in Alberta, passionate about user experience and making digital product make sense. My primary tools of choice include: Figma, HTML, and CSS.",
     "footer": {
       "year": "2026",
       "prefix": "Built on",
@@ -11,85 +11,67 @@
     }
   },
   "seo": {
-    "personName": "Gianmarco",
-    "jobTitle": "Freelance Frontend Developer",
+    "personName": "Zaina",
+    "jobTitle": "Junior UI/UX Web Designer",
     "worksFor": "Self-Employed",
-    "location": "Italy",
-    "countryCode": "IT",
-    "nationality": "Italy",
-    "publisherName": "Gianmarco",
+    "location": "Alberta",
+    "countryCode": "CA",
+    "nationality": "Egyptian, Canadian",
+    "publisherName": "Zaina",
     "sameAs": [
-      "https://www.linkedin.com/in/gianmarco-cavallo/",
-      "https://github.com/Ladvace"
+      "https://www.linkedin.com/in/zaina-mohamed/",
+      "https://github.com/zmohamed9"
     ]
   },
   "intro": {
     "welcomeLabel": "welcome",
-    "name": "Gianmarco Cavallo",
-    "summary": "a software developer with strong focus on the user experience, animations and micro interactions",
+    "name": "Zaina Mohamed",
+    "summary": "a designer who cares about the user experience and wants things to make sense",
     "socialButtons": [
       {
         "ariaLabel": "github profile",
         "screenReaderLabel": "GitHub Profile",
         "icon": "ri:github-fill",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/zmohamed9"
       },
       {
         "ariaLabel": "linkedin profile",
         "screenReaderLabel": "Linkedin Profile",
         "icon": "ri:linkedin-box-fill",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
-      },
-      {
-        "ariaLabel": "dribble profile",
-        "screenReaderLabel": "Dribble Profile",
-        "icon": "ri:dribbble-fill",
-        "url": "https://dribbble.com/Ladvace_Jace"
+        "url": "https://www.linkedin.com/in/zaina-mohamed/"
       }
     ],
-    "supportLink": {
-      "url": "https://ko-fi.com/M4M71O34X",
-      "imageSrc": "https://storage.ko-fi.com/cdn/kofi6.png?v=6",
-      "imageAlt": "Buy Me a Coffee at ko-fi.com"
-    },
     "image": {
-      "src": "/me.webp",
-      "alt": "memoji of gianmarco"
+      "src": "/me.jpg",
+      "alt": "image of cartoon niquabi"
     }
   },
   "about": {
     "title": "About me",
-    "intro": "Hi, I'm Gianmarco, a front-end software developer from Italy.",
+    "intro": "Hi, I'm Zaina, a designer based in Alberta.",
     "toolsIntro": "My primary tools of choice includes:",
     "tools": [
-      "JavaScript",
-      "React",
-      "Solidjs",
-      "Astro",
-      "Svelte",
-      "Nodejs"
+      "Figma",
+      "HTML",
+      "CSS"
     ],
-    "passion": "Beyond coding, I'm passionate about design, illustration, animation and 3D modelling and traveling. An unusual hobby of mine is collecting vintage passports, they're interesting pieces of history to me.",
-    "approach": "While I have some preferred tools, I always choose the best one for the job, even if it's not on my usual list. My goal is to find the right solution for each project."
+    "passion": "Beyond designing, I enjoy hanging out with my pets and loved ones. I enjoy playing boardgames and trying various coffee/matcha.",
+    "approach": "I want to understand the client's needs as well as the user pain points, before I start designing a rough sketch of the digital product."
   },
   "contacts": {
     "title": "Let's start working together!",
     "contactDetailsTitle": "Contact Details",
-    "email": "contact@gianmarcocavallo.com",
-    "location": "Italy",
+    "email": "zainaamohamed12@gmail.com",
+    "location": "Alberta",
     "socialsTitle": "Socials",
     "socialLinks": [
       {
         "label": "Linkedin",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/zaina-mohamed/"
       },
       {
         "label": "Github",
-        "url": "https://github.com/Ladvace"
-      },
-      {
-        "label": "Discord",
-        "url": "https://discordapp.com/users/163300027618295808"
+        "url": "https://github.com/zmohamed9/"
       }
     ]
   },
