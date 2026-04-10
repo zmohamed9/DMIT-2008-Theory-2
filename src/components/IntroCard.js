@@ -11,7 +11,6 @@ export default function IntroCard({ intro }) {
         name,
         summary,
         socialButtons = [],
-        supportLink,
         image,
     } = intro;
 
@@ -45,15 +44,6 @@ export default function IntroCard({ intro }) {
                             <span className="sr-only">Easter egg button</span>
                         </Button>
                     </Tooltip>
-                    <a href={supportLink.url} rel="noreferrer" target="_blank"
-                    ><Image
-                            height={36}
-                            style={{ border: 0, height: 36 }}
-                            src={supportLink.imageSrc}
-                            alt={supportLink.imageAlt}
-                            width={127}
-                        /></a
-                    >
                 </div>
             </div>
             <Image
