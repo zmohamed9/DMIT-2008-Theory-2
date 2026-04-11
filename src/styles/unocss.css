@@ -23,6 +23,7 @@
 .float-right{float:right;}
 .m-0{margin:0;}
 .m-auto{margin:auto;}
+.my{margin-top:1rem;margin-bottom:1rem;}
 .mb-2{margin-bottom:0.5rem;}
 .ml-2{margin-left:0.5rem;}
 .mt-1{margin-top:0.25rem;}
