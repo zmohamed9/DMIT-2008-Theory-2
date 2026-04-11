@@ -1,6 +1,6 @@
 # Theory 2
 
-> Student Name: **Zaina Mohamed || zmohamed9**
+> Student Name: **Zaina Mohamed | zmohamed9**
 
 ![Website Screenshot](./docs/images/screenshot.png)
 
